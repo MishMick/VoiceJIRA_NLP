@@ -1,0 +1,4 @@
+SpeechRecognition
+pydub
+wordcloud
+google-api-python-client
